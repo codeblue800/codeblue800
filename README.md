@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Charlie
+# 👋 Hi, I'm Daniel
 
 Full stack engineer focused on building clean backend systems, LLM-powered features, and modern web apps.  
 Working mainly with **.NET**, **Angular**, and **Python**, plus a lot of AI tooling lately with **LangChain**, **RAG pipelines**, and **OpenAI**.
